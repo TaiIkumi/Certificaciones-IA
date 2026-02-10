@@ -14,11 +14,11 @@ Para garantizar que el trabajo se guarde correctamente y evitar problemas de con
 ### Bloque 1: Análisis Exploratorio y Limpieza
 * **Sesión 2: Análisis Inicial de Datos**
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TaiIkumi/Certificaciones-IA/blob/main/Sesion_Trabajo_2_unsolved.ipynb)
-    *Importación, optimización de memoria (dtypes) y detección de outliers.*
+    
 
 * **Sesión 3: Depuración y Exportación**
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TaiIkumi/Certificaciones-IA/blob/main/Sesion_Trabajo_3_unsolved.ipynb)
-    *Tratamiento de valores nulos y generación de la base de datos limpia (BBDD_ST3).*
+    
 
 ### Bloque 2: Correlaciones y Visualización
 * **Sesión 4: Análisis de Correlaciones**
