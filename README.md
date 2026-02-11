@@ -1,5 +1,5 @@
 # Certificaciones-IA
-Repo de la asignatura "Ciència de Dades i Intel·ligència Artificial Aplicades a la Construcció i Estructures" (ETSEIB)
+Este repositorio contiene los materiales oficiales para el desarrollo del proyecto de Inteligencia Artificial basado en el análisis de certificaciones energéticas de edificios de la asignatura "Ciència de Dades i Intel·ligència Artificial Aplicades a la Construcció i Estructures" (ETSEIB)
 
 ## Instrucciones para la clase
 Para garantizar que el trabajo se guarde correctamente y evitar problemas de configuración, vamos a seguir este protocolo:
