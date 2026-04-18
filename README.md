@@ -4,8 +4,8 @@ Este repositorio contiene los materiales oficiales para el desarrollo del proyec
 ## Instrucciones para la clase
 Para garantizar que el trabajo se guarde correctamente y evitar problemas de configuración, vamos a seguir este protocolo:
 1.  **Abrir la sesión:** Haz clic en el botón "Open in Colab" de la sesión correspondiente abajo.
-2.  **Guardar copia:** Una vez abierto en Google Colab, ve a `Archivo > Guardar una copia en Drive`. **Si no haces esto, perderás tus cambios.**
-3.  **Conectar Datos:** Ejecuta la primera celda para montar tu Google Drive. Asegúrate de tener la base de datos (`.csv`) en la carpeta indicada en el código.
+2.  **Guardar copia (OBLIGATORIO):** Una vez abierto en Google Colab, ve a `Archivo > Guardar una copia en Drive`. **Si no haces esto, perderás tus cambios.**
+3.  **Carga de Datos Automatizada:** Ejecuta la primera celda de código.
 
 ---
 
